@@ -1,2 +1,4 @@
 # tgan77.github.io
-My homepage
+My **homepage**
+
+[Google](google.ca)
